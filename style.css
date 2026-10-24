@@ -931,7 +931,7 @@ textarea {
 }
 .footer-main > p {
   font-size: 12px;
-  color: #7a879c;
+  color: #1d2940;
 }
 .back-top {
   font-size: 11px;
@@ -944,7 +944,7 @@ textarea {
   gap: 20px;
   padding: 18px 0 25px;
   font-size: 10px;
-  color: #9aa4b5;
+  color: #1d2940;
 }
 .footer-bottom b {
   color: #9c63f4;
@@ -1299,9 +1299,10 @@ a.contact-detail:hover {
   gap: 16px;
   margin-left: auto;
   margin-right: 24px;
+  
 }
 .footer-socials a {
-  color: #9eacc3;
+  color: #1d2940;
   text-decoration: none;
   font-size: 11px;
   font-weight: 600;
